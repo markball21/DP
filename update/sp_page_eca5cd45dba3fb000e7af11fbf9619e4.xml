@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>dp_home</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>mball</sys_created_by>
+        <sys_created_on>2019-08-26 22:05:14</sys_created_on>
+        <sys_id>eca5cd45dba3fb000e7af11fbf9619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dp_home</sys_name>
+        <sys_package display_value="Design Portal" source="x_324043_design_po">c0258501dba3fb000e7af11fbf96196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Design Portal">c0258501dba3fb000e7af11fbf96196a</sys_scope>
+        <sys_update_name>sp_page_eca5cd45dba3fb000e7af11fbf9619e4</sys_update_name>
+        <sys_updated_by>mball</sys_updated_by>
+        <sys_updated_on>2019-08-26 22:05:14</sys_updated_on>
+        <title>DP Home</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=eca5cd45dba3fb000e7af11fbf9619e4"/>
+</record_update>

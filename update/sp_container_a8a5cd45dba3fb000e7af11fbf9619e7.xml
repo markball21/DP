@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>DP Home - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="dp_home">eca5cd45dba3fb000e7af11fbf9619e4</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>mball</sys_created_by>
+        <sys_created_on>2019-08-26 22:05:14</sys_created_on>
+        <sys_id>a8a5cd45dba3fb000e7af11fbf9619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DP Home - Container 1</sys_name>
+        <sys_package display_value="Design Portal" source="x_324043_design_po">c0258501dba3fb000e7af11fbf96196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Design Portal">c0258501dba3fb000e7af11fbf96196a</sys_scope>
+        <sys_update_name>sp_container_a8a5cd45dba3fb000e7af11fbf9619e7</sys_update_name>
+        <sys_updated_by>mball</sys_updated_by>
+        <sys_updated_on>2019-08-26 22:05:14</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>
